@@ -3,18 +3,22 @@ body {
     color: black;
 }
 
-main {
-    max-width: 500px;
-    text-align: center;
-    margin: 0 auto;
-}
-
 a {
-    text-decoration: none;
+    text-decoration: underline;
     color: black 
 }
 
 a:hover {
     color: white;
     background-color: black
+}
+
+.centered {
+    max-width: 500px;
+    text-align: center;
+    margin: 0
+}
+
+.experience {
+    text-align: left;
 }
