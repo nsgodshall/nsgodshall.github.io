@@ -18,12 +18,12 @@ a {
     text-decoration: none;
     font-weight: bold;
 
-    color: black 
+    color: white; 
 }
 
 a:hover {
-    color: white;
-    background-color: black
+    color: black;
+    background-color: white;
 }
 
 .centered {
