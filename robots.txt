@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nsgodshall.github.io/sitemap.xml
+Sitemap: nsgodshall.github.io/sitemap.xml
