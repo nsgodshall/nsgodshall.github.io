@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: AI Engineer. Baseball Nerd. Maker.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>contact: nsgodshall@gmail.com</p>
+    <p>Based in Los Angeles</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +26,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a multidisciplinary engineer who likes building useful tools — especially ones that mix software, data, and systems thinking. I currently work at Booz Allen Hamilton, where I lead backend development for MAPPy, an AI platform that helps NASA and DoD teams generate and reason about systems engineering artifacts using large language models. It's a mix of LLMs, RAG pipelines, secure cloud deployments, and the occasional tangle of JSON.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before that, I worked on the Mars Sample Receiving Project, helped build trade study frameworks, and contributed to system architecture models using SysML and MagicDraw. I’ve also developed trajectory analysis tools for Artemis mission planning and worked on data pipelines at JPL to prepare Jupiter observations for the Planetary Data System.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I graduated from UCLA with a degree in Mechanical Engineering, where I worked in the Nanoscale Transport Research Group building tools to analyze thermal properties of high-temperature materials.
+
+In my free time, I tinker. I’ve built a baseball analytics engine to measure “excitement” in MLB games, helped with open-source cybersecurity projects like the USB Nugget, and wired up a Wi-Fi-triggered fireworks system (it worked). I enjoy learning by building, and I try to keep my side projects just fun enough that they never feel like work.
