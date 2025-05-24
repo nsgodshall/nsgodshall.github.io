@@ -20,7 +20,7 @@
       "position": "AI Software Engineer",
       "url": "",
       "startDate": "2024-04-01",
-      "summary": "Lead Backend Developer for MAPPy, an LLM+RAG powered platform for the automated analysis and generation of Systems Engineering artifacts.  Developed and maintained the backend for the tool, deployed to AWS GovCloud, and collaborated with with government clients at NASA Johnson Space Center and NSWC Crane.",
+      "summary": "Lead Backend Developer for MAPPy, an LLM+RAG powered platform for the automated analysis and generation of Systems Engineering artifacts.",
       "highlights": [
         "Architected backend server responsible for AI processing",
         "Led secure Dockerized deployments to NASA AWS Govcloud",
@@ -46,7 +46,7 @@
       "url": "https://www.youtube.com/watch?v=lESeJ3EViCo",
       "startDate": "2021-02-01",
       "endDate": "2021-12-31",
-      "summary": "On-camera host for Hak5, one of the longest-running and most recognized cybersecurity YouTube channels. Wrote and presented instructional videos on topics like Android security, Google dorking, and ethical hacking tools. Responsible for researching techniques, developing educational scripts, and delivering technical content in a clear, engaging format for a global audience.",
+      "summary": "On-camera host for Hak5, one of the longest-running and most recognized cybersecurity YouTube channels.",
       "highlights": [
         "Wrote, produced, and hosted technical explainer videos viewed by thousands of cybersecurity enthusiasts",
         "Researched and demonstrated topics such as Android rooting, Google dorking, USB attacks, and Wi-Fi spoofing",
@@ -61,7 +61,7 @@
       "url": "https://www.youtube.com/c/NullByteWHT",
       "startDate": "2021-01-01",
       "endDate": "2021-08-01",
-      "summary": "Served as an on-camera host for Null Byte, delivering cybersecurity tutorials on topics like secure operating systems, malware analysis, and cyber threats. Focused on making complex security topics engaging and accessible to a broad audience.",
+      "summary": "Served as an on-camera host for Null Byte, delivering cybersecurity tutorials on topics like secure operating systems, malware analysis, and cyber threats",
       "highlights": [
         "Hosted 20+ instructional videos covering topics such as TailsOS, steganography techniques for hiding malware, and the WannaCry ransomware attack",
         "Researched and scripted original content aimed at both beginner and intermediate cybersecurity learners",
@@ -74,7 +74,7 @@
       "url": "https://pasadena.edu",
       "startDate": "2019-01-01",
       "endDate": "2019-08-01",
-      "summary": "Provided academic support to students enrolled in calculus-based physics courses, focusing on mechanics and electromagnetism. Helped students build foundational problem-solving skills and conceptual understanding.",
+      "summary": "Provided academic support to students enrolled in calculus-based physics courses, focusing on mechanics and electromagnetism.",
       "highlights": [
         "Tutored students one-on-one and in group settings for Calculus Based Physics, Algebra based physics, and conceptual phyics classes.",
         "Explained complex concepts such as Newtonian dynamics, electric fields, and vector analysis in intuitive terms",
@@ -132,14 +132,6 @@
       "courses": []
     }
   ],
-  "awards": [
-    {
-      "title": "Graduated Summa Cum Laude",
-      "date": "2022-06-01",
-      "awarder": "UCLA",
-      "summary": "Awarded for graduating with high academic distinction."
-    }
-  ],
   "certificates": [
     {
       "name": "OCSMP: SysML Certification",
@@ -180,7 +172,7 @@
     {
       "name": "Frameworks & Tools",
       "level": "Advanced",
-      "keywords": ["FastAPI", "Flask", "Docker", "Git", "Linux", "STK", "MagicDraw"]
+      "keywords": ["FastAPI", "LlamaIndex", "LangChain", "matplotlib", "Flask", "Docker", "Git", "Linux", "STK", "MagicDraw"]
     },
     {
       "name": "MBSE & Modeling",
