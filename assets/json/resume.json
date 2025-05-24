@@ -120,12 +120,7 @@
       "startDate": "2019-01-01",
       "endDate": "2022-06-01",
       "score": "3.91",
-      "courses": [
-        "Orbital Mechanics",
-        "Thermodynamics",
-        "Material Science",
-        "Dynamic System Controls"
-      ]
+      "courses": ["Orbital Mechanics", "Thermodynamics", "Material Science", "Dynamic System Controls"]
     },
     {
       "institution": "Pasadena City College",
@@ -157,30 +152,21 @@
     {
       "name": "In Search of the Most Exciting Baseball Game",
       "summary": "A tool that scraped and scored all 2,430 MLB games from 2023 based on a custom excitement metric.",
-      "highlights": [
-        "Built with Python",
-        "Scraped data from Baseball-Reference"
-      ],
+      "highlights": ["Built with Python", "Scraped data from Baseball-Reference"],
       "startDate": "2023-03-01",
       "url": ""
     },
     {
       "name": "USB Nugget",
       "summary": "Open-source cybersecurity tool for education and hacking.",
-      "highlights": [
-        "Firmware dev in CircuitPython",
-        "Custom 3D-printed case design"
-      ],
+      "highlights": ["Firmware dev in CircuitPython", "Custom 3D-printed case design"],
       "startDate": "2022-01-01",
       "url": "https://usbnugget.dev"
     },
     {
       "name": "Digitally Igniting Fireworks",
       "summary": "Designed a Wi-Fi controlled fireworks ignition system using ESP-32 and NiChrome wire.",
-      "highlights": [
-        "Embedded systems",
-        "Python + hardware integration"
-      ],
+      "highlights": ["Embedded systems", "Python + hardware integration"],
       "startDate": "2021-07-04",
       "url": ""
     }
@@ -189,35 +175,17 @@
     {
       "name": "Programming",
       "level": "Advanced",
-      "keywords": [
-        "Python",
-        "C++",
-        "JavaScript",
-        "Bash"
-      ]
+      "keywords": ["Python", "C++", "JavaScript", "Bash"]
     },
     {
       "name": "Frameworks & Tools",
       "level": "Advanced",
-      "keywords": [
-        "FastAPI",
-        "Flask",
-        "Docker",
-        "Git",
-        "Linux",
-        "STK",
-        "MagicDraw"
-      ]
+      "keywords": ["FastAPI", "Flask", "Docker", "Git", "Linux", "STK", "MagicDraw"]
     },
     {
       "name": "MBSE & Modeling",
       "level": "Advanced",
-      "keywords": [
-        "SysML",
-        "UML",
-        "MagicGrid",
-        "NASA MBSE Handbook"
-      ]
+      "keywords": ["SysML", "UML", "MagicGrid", "NASA MBSE Handbook"]
     }
   ],
   "languages": [
@@ -229,19 +197,11 @@
   "interests": [
     {
       "name": "Baseball Analytics",
-      "keywords": [
-        "Game excitement scoring",
-        "Data scraping",
-        "Historical stats"
-      ]
+      "keywords": ["Game excitement scoring", "Data scraping", "Historical stats"]
     },
     {
       "name": "Embedded Systems",
-      "keywords": [
-        "ESP-32",
-        "CircuitPython",
-        "Arduino"
-      ]
+      "keywords": ["ESP-32", "CircuitPython", "Arduino"]
     }
   ]
 }

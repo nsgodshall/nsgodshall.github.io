@@ -30,6 +30,6 @@ I'm a multidisciplinary engineer who likes building useful tools — especially 
 
 Before that, I worked on the Mars Sample Receiving Project, helped build trade study frameworks, and contributed to system architecture models using SysML and MagicDraw. I’ve also developed trajectory analysis tools for Artemis mission planning and worked on data pipelines at JPL to prepare Jupiter observations for the Planetary Data System.
 
-I graduated from UCLA with a degree in Mechanical Engineering, where I worked in the Nanoscale Transport Research Group building tools to analyze thermal properties of high-temperature materials. 
+I graduated from UCLA with a degree in Mechanical Engineering, where I worked in the Nanoscale Transport Research Group building tools to analyze thermal properties of high-temperature materials.
 
 In my free time, I tinker. I’ve built a baseball analytics engine to measure “excitement” in MLB games, helped with open-source cybersecurity projects like the USB Nugget, and wired up a Wi-Fi-triggered fireworks system (it worked). I enjoy learning by building, and I try to keep my side projects just fun enough that they never feel like work.
