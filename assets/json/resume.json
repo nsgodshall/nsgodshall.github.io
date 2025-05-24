@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Nick Godshall",
-    "label": "Multidisciplinary Engineer",
+    "label": "Gen AI Engineer",
     "image": "",
     "email": "nsgodshall@gmail.com",
     "phone": "(213) 444-6547",
@@ -17,14 +17,85 @@
   "work": [
     {
       "name": "Booz Allen Hamilton",
-      "position": "Staff Systems Engineer",
+      "position": "AI Software Engineer",
       "url": "",
-      "startDate": "2022-08-01",
-      "summary": "Lead Backend Developer for MAPPy, an LLM-powered platform for NASA and DoD. Built RAG pipelines, deployed to AWS GovCloud, and collaborated with clients like NASA JSC and NSWC Crane.",
+      "startDate": "2024-04-01",
+      "summary": "Lead Backend Developer for MAPPy, an LLM+RAG powered platform for the automated analysis and generation of Systems Engineering artifacts.  Developed and maintained the backend for the tool, deployed to AWS GovCloud, and collaborated with with government clients at NASA Johnson Space Center and NSWC Crane.",
       "highlights": [
-        "Designed ASGI backend interfacing with LLMs",
-        "Led secure Dockerized deployments to STIG-compliant infrastructure",
-        "Presented MAPPy use cases to stakeholders at NASA and DoD facilities"
+        "Architected backend server responsible for AI processing",
+        "Led secure Dockerized deployments to NASA AWS Govcloud",
+        "Presented MAPPy use cases to potential clients and stakeholders at NASA and DoD facilities."
+      ]
+    },
+    {
+      "name": "Booz Allen Hamilton",
+      "position": "Project Systems Engineer - Mars Sample Recieving Project",
+      "url": "",
+      "startDate": "2023-09-01",
+      "endDate": "2024-03-31",
+      "summary": "Member of the Project Systems Engineering for the Mars Sample Recieving Project at NASA Johnson Space center.  developing the project MBSE model and supporting Mission Concept Review (MCR) deliverables.",
+      "highlights": [
+        "Built a full-stack, data-driven Analysis of Alternatives framework using Python and Flask.",
+        "Utilized MBSE principles with MagicDraw modeling software to create a comprehensive system architecture model. Leveraged the NASA MBSE Handbook and the MagicGrid modeling framework to define the high-level system structure, interfaces, requirements, and element traceability.",
+        "Communicated with key Science and Engineering personnel to obtain, organize and communicate key project information."
+      ]
+    },
+    {
+      "name": "Hak5",
+      "position": "Video Content Host",
+      "url": "https://www.youtube.com/watch?v=lESeJ3EViCo",
+      "startDate": "2021-02-01",
+      "endDate": "2021-12-31",
+      "summary": "On-camera host for Hak5, one of the longest-running and most recognized cybersecurity YouTube channels. Wrote and presented instructional videos on topics like Android security, Google dorking, and ethical hacking tools. Responsible for researching techniques, developing educational scripts, and delivering technical content in a clear, engaging format for a global audience.",
+      "highlights": [
+        "Wrote, produced, and hosted technical explainer videos viewed by thousands of cybersecurity enthusiasts",
+        "Researched and demonstrated topics such as Android rooting, Google dorking, USB attacks, and Wi-Fi spoofing",
+        "Translated complex cybersecurity tools and techniques into engaging, beginner-friendly tutorials",
+        "Managed on-camera delivery, script development, and visual demo coordination for each episode",
+        "Wrote accompanying article stubs associated with each video."
+      ]
+    },
+    {
+      "name": "Null Byte",
+      "position": "Video Content Host",
+      "url": "https://www.youtube.com/c/NullByteWHT",
+      "startDate": "2021-01-01",
+      "endDate": "2021-08-01",
+      "summary": "Served as an on-camera host for Null Byte, delivering cybersecurity tutorials on topics like secure operating systems, malware analysis, and cyber threats. Focused on making complex security topics engaging and accessible to a broad audience.",
+      "highlights": [
+        "Hosted 20+ instructional videos covering topics such as TailsOS, steganography techniques for hiding malware, and the WannaCry ransomware attack",
+        "Researched and scripted original content aimed at both beginner and intermediate cybersecurity learners",
+        "Worked closely with video editors and infosec professionals to ensure technical accuracy and production quality"
+      ]
+    },
+    {
+      "name": "Pasadena City College",
+      "position": "Physics Tutor",
+      "url": "https://pasadena.edu",
+      "startDate": "2019-01-01",
+      "endDate": "2019-08-01",
+      "summary": "Provided academic support to students enrolled in calculus-based physics courses, focusing on mechanics and electromagnetism. Helped students build foundational problem-solving skills and conceptual understanding.",
+      "highlights": [
+        "Tutored students one-on-one and in group settings for Calculus Based Physics, Algebra based physics, and conceptual phyics classes.",
+        "Explained complex concepts such as Newtonian dynamics, electric fields, and vector analysis in intuitive terms",
+        "Helped students improve performance on lab reports, homework, and exams",
+        "Received PCC’s Award for Excellence in Performance for outstanding contribution to the tutoring center"
+      ]
+    },
+    {
+      "name": "NullByte",
+      "position": "Video Content Producer",
+      "url": "https://www.youtube.com/@NullByteWHT",
+      "startDate": "2018-02-01",
+      "endDate": "2019-08-31",
+      "summary": "Lead Video Producer for NullByte youtube channel. Responsible fo researching, filming and editing 50+ instructional cybersecurity videos ",
+      "highlights": [
+        "Produced over 50 high-quality video tutorials for a technical audience on cybersecurity fundamentals and advanced techniques",
+        "Covered topics such as Linux privilege escalation, Wi-Fi attacks, password cracking, and Nmap scanning",
+        "Managed the full production pipeline: research, scriptwriting, screencasting, narration, and post-production editing",
+        "Simplified complex security concepts for beginner and intermediate audiences without sacrificing technical accuracy",
+        "Helped grow channel engagement by delivering consistently polished, high-retention instructional content",
+        "Collaborated with writers and cybersecurity professionals to ensure topical relevance and accuracy"
       ]
     },
     {
