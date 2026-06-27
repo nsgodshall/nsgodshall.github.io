@@ -1,9 +1,10 @@
 ---
 layout: book-review
-title: "The Employees: A Workplace Novel of the 22nd Century"
+title: "The Employees"
 author: Olga Ravn
 cover: assets/img/book_covers/the_employees.jpg
 released: 2018
 status: Finished
-date: 2025-01-15
+finished: 2024-12-01
+date: 2024-12-01
 ---

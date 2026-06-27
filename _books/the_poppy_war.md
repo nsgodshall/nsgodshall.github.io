@@ -1,9 +1,10 @@
 ---
 layout: book-review
-title: The Poppy War Trilogy
-author: R. F. Kuang
+title: "The Poppy War"
+author: R.F. Kuang
 cover: assets/img/book_covers/the_poppy_war.jpg
 released: 2018
 status: Finished
-date: 2025-06-20
+finished: 2024-06-30
+date: 2024-06-30
 ---
